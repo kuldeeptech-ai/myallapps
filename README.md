@@ -12,7 +12,7 @@
 
 ---
 
-## 🏪 Apna Bhandar
+## 🏪 Movie Bhandar
 Your mini-store app to manage products, sales, and customers effortlessly.
 
 <div align="center">
@@ -97,7 +97,7 @@ Stream or download your favorite movies with clean layout and category sorting.
 
 ---
 
-## 📥 Movie Bhandar 2.0.80
+## 📥 Apna Bhandar 2.0.80
 Your movie library app — discover, stream, and download in HD quality.
 
 <div align="center">
