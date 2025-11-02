@@ -118,9 +118,9 @@ Your movie library app — discover, stream, and download in HD quality.
 A new generation of KLD Music app with improved UI, advanced EQ, and smooth playback.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Kld+Music+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Kld+Music+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Kld+Music+3" width="30%" />
+  <img src="https://i.ibb.co/h1HdbyzF/1000197885.jpg" width="30%" />
+  <img src="https://i.ibb.co/PZz73bBT/1000197883.jpg" width="30%" />
+  <img src="https://i.ibb.co/nMd5dpC9/1000197882.jpg" width="30%" />
 </div>
 
 <p align="center">
