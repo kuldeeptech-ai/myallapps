@@ -1,67 +1,81 @@
-# 🌟 KLD Android App Collection
+<h1 align="center">🌈 KLD Android App Universe 🌈</h1>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Version-2.0-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Android-Apps-success?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Developer-Kuldeep%20Ji-orange?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/github/stars/KuldeepJi?style=for-the-badge&color=yellow" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/DhYpX6A.png" width="200" alt="KLD Logo"/>
+  <img src="https://i.imgur.com/DhYpX6A.png" width="180" alt="KLD Logo"/>
 </p>
 
-> ✨ **All-in-one Android app collection by Kuldeep Ji**  
-> Simple. Fast. Beautiful. Secure.
+<h3 align="center">✨ Simple • Fast • Clean • Made with ❤️ by Kuldeep Ji ✨</h3>
 
 ---
 
-## 📱 Available Apps
+## 🪄 Overview
+
+**KLD Android App Universe** एक ऐसा कलेक्शन है जिसमें हर ऐप का अपना अलग charm है —  
+चाहे बात हो तेज़ file transfer की, smooth music experience की या smart movie streaming की।  
+हर ऐप को डिजाइन किया गया है एक simple लेकिन powerful Android experience के लिए।
+
+---
+
+## 🚀 App Collection
 
 | Icon | App Name | Description | Size |
 |------|-----------|--------------|------|
-| <img src="https://img.icons8.com/color/48/000000/shop.png"/> | **Apna Bhandar.apk** | हल्का और आसान स्टॉक मैनेजमेंट ऐप | `642 KB` |
-| <img src="https://img.icons8.com/color/48/000000/send-file.png"/> | **Kld File Transfer_24.apk** | तेज़ और सुरक्षित फ़ाइल शेयरिंग ऐप | `4.61 MB` |
-| <img src="[https://img.icons8.com/fluency/48/000000/file-transfer.png](https://camo.githubusercontent.com/519f67b56f12d20f152670a5cd0322b5d403c4147931f7535bed566e111d1c87/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f34382f3030303030302f73656e642d66696c652e706e67)"/> | **Kld Any Transfer.apk** | किसी भी डिवाइस में डेटा शेयर करें | `4.84 MB` |
-| <img src="https://img.icons8.com/fluency/48/000000/musical-notes.png"/> | **Kuldeep Music_1.12.1.apk** | शानदार म्यूज़िक एक्सपीरियंस के लिए परफेक्ट प्लेयर | `30.54 MB` |
-| <img src="https://img.icons8.com/color/48/000000/movie-projector.png"/> | **Kld Movies 🎬_V2.0.4.apk** | मूवी और शो देखने के लिए स्मार्ट ऐप | `37.78 MB` |
-| <img src="https://img.icons8.com/color/48/000000/downloads.png"/> | **Movie Bhandar_2.0.80.1101.01.apk** | मूवी डाउनलोड और स्ट्रीमिंग के लिए हब | `38.98 MB` |
-| <img src="https://img.icons8.com/color/48/000000/musical.png"/> | **Kld Music_0.2.21.apk** | अपडेटेड म्यूज़िक ऐप – नया डिज़ाइन और स्मूद इंटरफेस | `49.50 MB` |
+| <img src="https://img.icons8.com/color/48/000000/shop.png"/> | **Apna Bhandar.apk** | Local store management के लिए हल्का ऐप | `642 KB` |
+| <img src="https://img.icons8.com/color/48/000000/send-file.png"/> | **Kld File Transfer_24.apk** | Wi-Fi Direct file transfer, बिना internet | `4.61 MB` |
+| <img src="https://img.icons8.com/fluency/48/000000/file-transfer.png"/> | **Kld Any Transfer.apk** | Universal sharing – किसी भी device के साथ | `4.84 MB` |
+| <img src="https://img.icons8.com/fluency/48/000000/musical-notes.png"/> | **Kuldeep Music_1.12.1.apk** | Pure sound, sleek UI, playlist support | `30.54 MB` |
+| <img src="https://img.icons8.com/color/48/000000/movie-projector.png"/> | **Kld Movies 🎬_V2.0.4.apk** | Movies + TV Shows hub with clean interface | `37.78 MB` |
+| <img src="https://img.icons8.com/color/48/000000/downloads.png"/> | **Movie Bhandar_2.0.80.1101.01.apk** | Download & stream movies in HD | `38.98 MB` |
+| <img src="https://img.icons8.com/color/48/000000/musical.png"/> | **Kld Music_0.2.21.apk** | Updated player with smooth design & EQ | `49.50 MB` |
 
 ---
 
-## 🚀 Features
+## ✨ Key Highlights
 
-- ⚡ Smooth, fast and ad-free experience  
-- 🎨 Clean UI inspired by Material You  
-- 🔄 Regular updates & bug fixes  
-- 📁 Offline file transfer support  
-- 🎧 Rich audio player with equalizer  
-- 🎥 Movie info, trailers & download support  
-
----
-
-## 🛠️ Installation
-
-1. इच्छित `.apk` फ़ाइल को डाउनलोड करें  
-2. अपने मोबाइल में **Settings → Security → Install Unknown Apps** सक्षम करें  
-3. ऐप इंस्टॉल करें और आनंद लें 🎉  
+- 🔥 **Modern Material UI** – साफ़, responsive और elegant look  
+- ⚡ **Ultra Fast Performance** – lightweight और optimized code  
+- 🎵 **Smart Audio Engine** – better sound control  
+- 🎬 **Auto Movie Info Fetch** – posters, trailers और details  
+- 📤 **Offline Sharing** – बिना data के भी file transfer possible  
+- 🔒 **Privacy Focused** – कोई ads, कोई tracking नहीं  
 
 ---
 
-## 🧩 Upcoming Features
+## 📲 Installation Guide
 
-- 🎬 **Auto Trailer Fetch (Movies App)**  
-- 🎵 **Lyrics & Theme Mode (Music App)**  
-- ⚙️ **QR File Transfer (File App)**  
-- 💡 **Improved UI for all apps**
+1. अपनी पसंद की `.apk` फ़ाइल डाउनलोड करें  
+2. Android Settings → **Install Unknown Apps** सक्षम करें  
+3. Install करें और enjoy करें 🎉  
+
+> 💡 सभी apps tested हैं Android 8.0 + versions पर।
 
 ---
 
-## 🧑‍💻 Developer Info
+## 🔮 Upcoming Updates
 
-**👤 Developer:** [Kuldeep Ji](#)  
-**📧 Contact:** Coming Soon  
-**🌐 Website:** Coming Soon  
+| Feature | Status |
+|----------|---------|
+| Dark Mode Everywhere | 🔜 Coming |
+| Auto Lyrics in Music App | ⚙️ In Development |
+| Trailer Auto-Fetch | 🚧 Testing |
+| QR-based File Sharing | 🧩 Planned |
+
+---
+
+## 🧑‍💻 About the Developer
+
+> **Developed & Designed by [Kuldeep Ji](#)**  
+> Passionate about Android | UI | Code | Innovation  
+
+📧 Email – *Coming Soon*  
+🌐 Official Site – *Coming Soon*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With❤️-By%20Kuldeep%20Ji-red?style=for-the-badge" />
@@ -69,24 +83,22 @@
 
 ---
 
-## 💬 Screenshots & Previews
-
-> 🎥 App demos and screenshots will be added soon!
+## 📸 Screenshots & Previews
 
 <p align="center">
   <img src="https://img.icons8.com/fluency/96/000000/android-os.png" />
 </p>
 
----
-
-## ⭐ Support & Feedback
-
-अगर आपको ये ऐप्स पसंद आएँ ❤️  
-तो इस रिपॉज़िटरी को **Star** ⭐ करें और अपने सुझाव नीचे कमेंट में शेयर करें।  
-आपका सपोर्ट ही अगला अपडेट लाने की सबसे बड़ी ताकत है।
+> 🎥 Screenshots, demos और preview videos जल्द ही जोड़े जाएंगे।  
 
 ---
+
+## 💬 Feedback & Support
+
+अगर ये प्रोजेक्ट अच्छा लगे ❤️  
+तो इसे **Star ⭐** करें, share करें और feedback भेजें।  
+हर Star, हर सुझाव अगला अपडेट बेहतर बनाता है।
 
 <p align="center">
-  © 2025 | Developed with ❤️ by <b>Kuldeep Ji</b>
+  © 2025 | Created with 💙 by <b>Kuldeep Ji</b>
 </p>
