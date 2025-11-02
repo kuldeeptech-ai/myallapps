@@ -12,13 +12,13 @@
 
 ---
 
-## 🏪 Movie Bhandar
+## Movie Bhandar
 Your mini-store app to manage products, sales, and customers effortlessly.
 
 <div align="center">
-  <img src="[[[https://i.ibb.co/CpF4yrgm/1000197881.jpg](https://img.jarmod.com/img/DdM0NTAUip.jpeg)](https://instasize.com/p/ee030cf5f6f9ad4a57a2ff55304dd68b22df660eda5d9b65e832d7fca27f0db5)](https://instasize.com/p/7b99df56720242db1dd0e18305b1c2279bcc343a96b8f79825ae015b3c5aa9df)" width="30%" />
-  <img src="https://instasize.com/p/6c2f7f533b6131ece250d14bb7c4c80d81e31a009eb8790c54ca93f34a8bb9c8" width="30%" />
-  <img src="https://instasize.com/p/7b99df56720242db1dd0e18305b1c2279bcc343a96b8f79825ae015b3c5aa9df" width="30%" />
+  <img src="https://img.jarmod.com/img/mr-DvTIdtn.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/FFt-w7toAu.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/n8thELI7Wb.jpeg" width="30%" />
 </div>
 
 <p align="center">
@@ -33,9 +33,9 @@ Your mini-store app to manage products, sales, and customers effortlessly.
 Fast, secure, and offline file sharing with clean UI and instant QR pairing.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=File+Transfer+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=File+Transfer+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=File+Transfer+3" width="30%" />
+  <img src="https://img.jarmod.com/img/seib4sC8aS.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/lTPhxKQP6I.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/_ZOA2LB2TP.jpeg" width="30%" />
 </div>
 
 <p align="center">
@@ -50,9 +50,9 @@ Fast, secure, and offline file sharing with clean UI and instant QR pairing.
 Share any files between Android devices at lightning speed — no ads, no limits.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Any+Transfer+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Any+Transfer+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Any+Transfer+3" width="30%" />
+  <img src="https://img.jarmod.com/img/i9v8WqsWFS.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/8u0RLxrZnZ.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/UOinwKGl3c.jpeg" width="30%" />
 </div>
 
 <p align="center">
@@ -67,9 +67,9 @@ Share any files between Android devices at lightning speed — no ads, no limits
 An advanced offline music player with smooth animations, playlists, and modern interface.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Kuldeep+Music+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Kuldeep+Music+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Kuldeep+Music+3" width="30%" />
+  <img src="https://img.jarmod.com/img/opNiXS9xRr.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/XBDprOshxl.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/LXu6Yxbe_T.jpeg" width="30%" />
 </div>
 
 <p align="center">
@@ -84,9 +84,9 @@ An advanced offline music player with smooth animations, playlists, and modern i
 Stream or download your favorite movies with clean layout and category sorting.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Kld+Movies+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Kld+Movies+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Kld+Movies+3" width="30%" />
+  <img src="https://img.jarmod.com/img/Xsm7SXgwkM.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/bYFdBWgmx9.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/2r9kj3ljSL.jpeg" width="30%" />
 </div>
 
 <p align="center">
@@ -101,9 +101,9 @@ Stream or download your favorite movies with clean layout and category sorting.
 Your movie library app — discover, stream, and download in HD quality.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Movie+Bhandar+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Movie+Bhandar+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Movie+Bhandar+3" width="30%" />
+  <img src="https://img.jarmod.com/img/WrkzY8Zhw7.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/U22Mj2WTGE.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/WX3kbTvBid.jpeg" width="30%" />
 </div>
 
 <p align="center">
@@ -118,9 +118,9 @@ Your movie library app — discover, stream, and download in HD quality.
 A new generation of KLD Music app with improved UI, advanced EQ, and smooth playback.
 
 <div align="center">
-  <img src="https://i.ibb.co/h1HdbyzF/1000197885.jpg" width="30%" />
-  <img src="https://i.ibb.co/PZz73bBT/1000197883.jpg" width="30%" />
-  <img src="https://i.ibb.co/nMd5dpC9/1000197882.jpg" width="30%" />
+  <img src="https://img.jarmod.com/img/DdM0NTAUip.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/aK5kA8fSqL.jpeg" width="30%" />
+  <img src="https://img.jarmod.com/img/hQBZZBIdLK.jpeg" width="30%" />
 </div>
 
 <p align="center">
