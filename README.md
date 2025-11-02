@@ -16,9 +16,9 @@
 Your mini-store app to manage products, sales, and customers effortlessly.
 
 <div align="center">
-  <img src="https://via.placeholder.com/300x600?text=Apna+Bhandar+1" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Apna+Bhandar+2" width="30%" />
-  <img src="https://via.placeholder.com/300x600?text=Apna+Bhandar+3" width="30%" />
+  <img src="[https://i.ibb.co/CpF4yrgm/1000197881.jpg](https://i.ibb.co/5WzNmKHZ/1000197880.jpg)" width="30%" />
+  <img src="https://i.ibb.co/5WzNmKHZ/1000197880.jpg" width="30%" />
+  <img src="https://i.ibb.co/g22krrK/1000197879.jpg" width="30%" />
 </div>
 
 <p align="center">
