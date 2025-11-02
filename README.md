@@ -16,7 +16,7 @@
 Your mini-store app to manage products, sales, and customers effortlessly.
 
 <div align="center">
-  <img src="[[https://i.ibb.co/CpF4yrgm/1000197881.jpg](https://instasize.com/p/ee030cf5f6f9ad4a57a2ff55304dd68b22df660eda5d9b65e832d7fca27f0db5)](https://instasize.com/p/7b99df56720242db1dd0e18305b1c2279bcc343a96b8f79825ae015b3c5aa9df)" width="30%" />
+  <img src="[[[https://i.ibb.co/CpF4yrgm/1000197881.jpg](https://img.jarmod.com/img/DdM0NTAUip.jpeg)](https://instasize.com/p/ee030cf5f6f9ad4a57a2ff55304dd68b22df660eda5d9b65e832d7fca27f0db5)](https://instasize.com/p/7b99df56720242db1dd0e18305b1c2279bcc343a96b8f79825ae015b3c5aa9df)" width="30%" />
   <img src="https://instasize.com/p/6c2f7f533b6131ece250d14bb7c4c80d81e31a009eb8790c54ca93f34a8bb9c8" width="30%" />
   <img src="https://instasize.com/p/7b99df56720242db1dd0e18305b1c2279bcc343a96b8f79825ae015b3c5aa9df" width="30%" />
 </div>
