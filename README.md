@@ -1,81 +1,167 @@
-<h1 align="center">🌈 KLD Android App Universe 🌈</h1>
+<h1 align="center">🎯 KLD Android App Universe</h1>
 
 <p align="center">
   <img src="https://img.shields.io/badge/Platform-Android-green?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Developer-Kuldeep%20Ji-orange?style=for-the-badge" />
   <img src="https://img.shields.io/badge/Status-Active-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/github/stars/KuldeepJi?style=for-the-badge&color=yellow" />
 </p>
 
 <p align="center">
-  <img src="https://i.imgur.com/DhYpX6A.png" width="180" alt="KLD Logo"/>
+  <img src="https://i.imgur.com/DhYpX6A.png" width="160" alt="KLD Logo"/>
 </p>
 
-<h3 align="center">✨ Simple • Fast • Clean • Made with ❤️ by Kuldeep Ji ✨</h3>
+<h3 align="center">All Android Creations by <b>Kuldeep Ji</b> — Fast • Clean • Reliable</h3>
 
 ---
 
-## 🪄 Overview
+## 🏪 App Collection
 
-**KLD Android App Universe** एक ऐसा कलेक्शन है जिसमें हर ऐप का अपना अलग charm है —  
-चाहे बात हो तेज़ file transfer की, smooth music experience की या smart movie streaming की।  
-हर ऐप को डिजाइन किया गया है एक simple लेकिन powerful Android experience के लिए।
+### 🛍️ Apna Bhandar.apk
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/shop.png"/>
+</p>
 
----
+**Purpose:**  
+Local store management के लिए lightweight ऐप – easy inventory handling और smooth performance।
 
-## 🚀 App Collection
-
-| Icon | App Name | Description | Size |
-|------|-----------|--------------|------|
-| <img src="https://img.icons8.com/color/48/000000/shop.png"/> | **Apna Bhandar.apk** | Local store management के लिए हल्का ऐप | `642 KB` |
-| <img src="https://img.icons8.com/color/48/000000/send-file.png"/> | **Kld File Transfer_24.apk** | Wi-Fi Direct file transfer, बिना internet | `4.61 MB` |
-| <img src="https://img.icons8.com/fluency/48/000000/file-transfer.png"/> | **Kld Any Transfer.apk** | Universal sharing – किसी भी device के साथ | `4.84 MB` |
-| <img src="https://img.icons8.com/fluency/48/000000/musical-notes.png"/> | **Kuldeep Music_1.12.1.apk** | Pure sound, sleek UI, playlist support | `30.54 MB` |
-| <img src="https://img.icons8.com/color/48/000000/movie-projector.png"/> | **Kld Movies 🎬_V2.0.4.apk** | Movies + TV Shows hub with clean interface | `37.78 MB` |
-| <img src="https://img.icons8.com/color/48/000000/downloads.png"/> | **Movie Bhandar_2.0.80.1101.01.apk** | Download & stream movies in HD | `38.98 MB` |
-| <img src="https://img.icons8.com/color/48/000000/musical.png"/> | **Kld Music_0.2.21.apk** | Updated player with smooth design & EQ | `49.50 MB` |
+**📦 Size:** 642 KB  
+**⚙️ Status:** Stable  
+**⭐ Highlights:**  
+- Product list & quick search  
+- Offline stock updates  
+- Simple UI for shop owners  
 
 ---
 
-## ✨ Key Highlights
+### 📤 Kld File Transfer _24.apk
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/send-file.png"/>
+</p>
 
-- 🔥 **Modern Material UI** – साफ़, responsive और elegant look  
-- ⚡ **Ultra Fast Performance** – lightweight और optimized code  
-- 🎵 **Smart Audio Engine** – better sound control  
-- 🎬 **Auto Movie Info Fetch** – posters, trailers और details  
-- 📤 **Offline Sharing** – बिना data के भी file transfer possible  
-- 🔒 **Privacy Focused** – कोई ads, कोई tracking नहीं  
+**Purpose:**  
+तेज़ और सुरक्षित file sharing app — Wi-Fi Direct support और zero data usage।
+
+**📦 Size:** 4.61 MB  
+**⚙️ Status:** Stable  
+**⭐ Highlights:**  
+- Share photos, videos, apps instantly  
+- Works without internet  
+- Clean transfer history screen  
 
 ---
 
-## 📲 Installation Guide
+### 🔄 Kld Any Transfer.apk
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/file-transfer.png"/>
+</p>
 
-1. अपनी पसंद की `.apk` फ़ाइल डाउनलोड करें  
-2. Android Settings → **Install Unknown Apps** सक्षम करें  
-3. Install करें और enjoy करें 🎉  
+**Purpose:**  
+Universal sharing tool – किसी भी डिवाइस या प्लेटफॉर्म में फाइल भेजें।
 
-> 💡 सभी apps tested हैं Android 8.0 + versions पर।
+**📦 Size:** 4.84 MB  
+**⚙️ Status:** Beta  
+**⭐ Highlights:**  
+- QR code connect  
+- Fast multi-file sending  
+- Cross-device compatibility  
+
+---
+
+### 🎵 Kuldeep Music _1.12.1.apk
+<p align="center">
+  <img src="https://img.icons8.com/fluency/96/000000/musical-notes.png"/>
+</p>
+
+**Purpose:**  
+High-quality audio player with elegant design और playlist support।
+
+**📦 Size:** 30.54 MB  
+**⚙️ Status:** Stable  
+**⭐ Highlights:**  
+- Rich equalizer & bass boost  
+- Offline music playback  
+- Custom themes  
+
+---
+
+### 🎬 Kld Movies _V2.0.4.apk
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/movie-projector.png"/>
+</p>
+
+**Purpose:**  
+Movies + TV Shows hub — trailer, poster और info auto-fetch करता है।
+
+**📦 Size:** 37.78 MB  
+**⚙️ Status:** Stable  
+**⭐ Highlights:**  
+- HD movie list  
+- Search by genre  
+- Trailer preview inside app  
+
+---
+
+### ⬇️ Movie Bhandar _2.0.80.1101.01.apk
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/downloads.png"/>
+</p>
+
+**Purpose:**  
+One-stop movie downloading and streaming app।
+
+**📦 Size:** 38.98 MB  
+**⚙️ Status:** Stable  
+**⭐ Highlights:**  
+- Multiple quality options (720p / 1080p)  
+- Smart download manager  
+- Clean category layout  
+
+---
+
+### 🎧 Kld Music _0.2.21.apk
+<p align="center">
+  <img src="https://img.icons8.com/color/96/000000/musical.png"/>
+</p>
+
+**Purpose:**  
+Updated music app with refined UI + new equalizer system।
+
+**📦 Size:** 49.50 MB  
+**⚙️ Status:** Latest Release  
+**⭐ Highlights:**  
+- Smarter playlists  
+- Theme mode (Light/Dark)  
+- Improved performance  
 
 ---
 
 ## 🔮 Upcoming Updates
 
-| Feature | Status |
-|----------|---------|
-| Dark Mode Everywhere | 🔜 Coming |
-| Auto Lyrics in Music App | ⚙️ In Development |
-| Trailer Auto-Fetch | 🚧 Testing |
-| QR-based File Sharing | 🧩 Planned |
+| Feature | Progress |
+|----------|-----------|
+| Global Dark Mode | 🧩 Planned |
+| Auto Lyrics Support | ⚙️ Developing |
+| Smart Trailer Fetcher | 🚧 Testing |
+| QR Transfer System | 🔜 Next Build |
 
 ---
 
-## 🧑‍💻 About the Developer
+## 🛠️ Installation Steps
 
-> **Developed & Designed by [Kuldeep Ji](#)**  
-> Passionate about Android | UI | Code | Innovation  
+1. अपनी पसंद की `.apk` फ़ाइल डाउनलोड करें  
+2. Android Settings → **Install Unknown Apps** सक्षम करें  
+3. Install करें और enjoy करें 🎉  
 
-📧 Email – *Coming Soon*  
-🌐 Official Site – *Coming Soon*
+> 💡 Tested on Android 8 and above.
+
+---
+
+## 👨‍💻 Developer Info
+
+**Name:** Kuldeep Ji  
+**Passion:** Android Development • UI Design • Creative Coding  
+**Email:** *Coming Soon*  
+**Website:** *Coming Soon*
 
 <p align="center">
   <img src="https://img.shields.io/badge/Made%20With❤️-By%20Kuldeep%20Ji-red?style=for-the-badge" />
@@ -83,21 +169,11 @@
 
 ---
 
-## 📸 Screenshots & Previews
+## 💬 Support & Feedback
 
-<p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/android-os.png" />
-</p>
-
-> 🎥 Screenshots, demos और preview videos जल्द ही जोड़े जाएंगे।  
-
----
-
-## 💬 Feedback & Support
-
-अगर ये प्रोजेक्ट अच्छा लगे ❤️  
-तो इसे **Star ⭐** करें, share करें और feedback भेजें।  
-हर Star, हर सुझाव अगला अपडेट बेहतर बनाता है।
+अगर ये प्रोजेक्ट पसंद आए ❤️  
+तो रिपॉज़िटरी को **Star ⭐** करें और अपना feedback साझा करें।  
+हर Star अगला अपडेट और बेहतर बनाता है।
 
 <p align="center">
   © 2025 | Created with 💙 by <b>Kuldeep Ji</b>
